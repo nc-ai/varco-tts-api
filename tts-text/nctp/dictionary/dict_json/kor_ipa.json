@@ -1,0 +1,270 @@
+{
+    "ᄀ": {
+        "ipa": "k",
+        "symbol_number": 300
+    },
+    "ᄁ": {
+        "ipa": "kk",
+        "symbol_number": 301
+    },
+    "ᄂ": {
+        "ipa": "n",
+        "symbol_number": 302
+    },
+    "ᄃ": {
+        "ipa": "t",
+        "symbol_number": 303
+    },
+    "ᄄ": {
+        "ipa": "tt",
+        "symbol_number": 304
+    },
+    "ᄅ": {
+        "ipa": "ɾ",
+        "symbol_number": 305
+    },
+    "ᄆ": {
+        "ipa": "m",
+        "symbol_number": 306
+    },
+    "ᄇ": {
+        "ipa": "p",
+        "symbol_number": 307
+    },
+    "ᄈ": {
+        "ipa": "pp",
+        "symbol_number": 308
+    },
+    "ᄉ": {
+        "ipa": "sh",
+        "symbol_number": 309
+    },
+    "ᄊ": {
+        "ipa": "ss",
+        "symbol_number": 310
+    },
+    "ᄋ": {
+        "ipa": "ŋ",
+        "symbol_number": 311
+    },
+    "ᄌ": {
+        "ipa": "tɕ",
+        "symbol_number": 312
+    },
+    "ᄍ": {
+        "ipa": "tɕɕ",
+        "symbol_number": 313
+    },
+    "ᄎ": {
+        "ipa": "tɕh",
+        "symbol_number": 314
+    },
+    "ᄏ": {
+        "ipa": "kh",
+        "symbol_number": 315
+    },
+    "ᄐ": {
+        "ipa": "th",
+        "symbol_number": 316
+    },
+    "ᄑ": {
+        "ipa": "ph",
+        "symbol_number": 317
+    },
+    "ᄒ": {
+        "ipa": "h",
+        "symbol_number": 318
+    },
+    "ᅡ": {
+        "ipa": "a",
+        "symbol_number": 319
+    },
+    "ᅢ": {
+        "ipa": "ɛ",
+        "symbol_number": 320
+    },
+    "ᅣ": {
+        "ipa": "ja",
+        "symbol_number": 321
+    },
+    "ᅤ": {
+        "ipa": "jɛ",
+        "symbol_number": 322
+    },
+    "ᅥ": {
+        "ipa": "ʌ",
+        "symbol_number": 323
+    },
+    "ᅦ": {
+        "ipa": "e",
+        "symbol_number": 324
+    },
+    "ᅧ": {
+        "ipa": "jʌ",
+        "symbol_number": 325
+    },
+    "ᅨ": {
+        "ipa": "je",
+        "symbol_number": 326
+    },
+    "ᅩ": {
+        "ipa": "o",
+        "symbol_number": 327
+    },
+    "ᅪ": {
+        "ipa": "wa",
+        "symbol_number": 328
+    },
+    "ᅫ": {
+        "ipa": "wɛ",
+        "symbol_number": 329
+    },
+    "ᅬ": {
+        "ipa": "ø",
+        "symbol_number": 330
+    },
+    "ᅭ": {
+        "ipa": "jo",
+        "symbol_number": 331
+    },
+    "ᅮ": {
+        "ipa": "u",
+        "symbol_number": 332
+    },
+    "ᅯ": {
+        "ipa": "wʌ",
+        "symbol_number": 333
+    },
+    "ᅰ": {
+        "ipa": "we",
+        "symbol_number": 334
+    },
+    "ᅱ": {
+        "ipa": "y",
+        "symbol_number": 335
+    },
+    "ᅲ": {
+        "ipa": "ju",
+        "symbol_number": 336
+    },
+    "ᅳ": {
+        "ipa": "ɯ",
+        "symbol_number": 337
+    },
+    "ᅴ": {
+        "ipa": "ɰi",
+        "symbol_number": 338
+    },
+    "ᅵ": {
+        "ipa": "i",
+        "symbol_number": 339
+    },
+    "ᆨ": {
+        "ipa": "k",
+        "symbol_number": 300
+    },
+    "ᆩ": {
+        "ipa": "kk",
+        "symbol_number": 301
+    },
+    "ᆪ": {
+        "ipa": "k",
+        "symbol_number": 300
+    },
+    "ᆫ": {
+        "ipa": "n",
+        "symbol_number": 302
+    },
+    "ᆬ": {
+        "ipa": "n",
+        "symbol_number": 302
+    },
+    "ᆭ": {
+        "ipa": "n",
+        "symbol_number": 302
+    },
+    "ᆮ": {
+        "ipa": "t",
+        "symbol_number": 303
+    },
+    "ᆯ": {
+        "ipa": "ɭ",
+        "symbol_number": 340
+    },
+    "ᆰ": {
+        "ipa": "ɭk",
+        "symbol_number": 341
+    },
+    "ᆱ": {
+        "ipa": "ɭm",
+        "symbol_number": 342
+    },
+    "ᆲ": {
+        "ipa": "ɭp",
+        "symbol_number": 343
+    },
+    "ᆳ": {
+        "ipa": "ɭs",
+        "symbol_number": 344
+    },
+    "ᆴ": {
+        "ipa": "ɭth",
+        "symbol_number": 345
+    },
+    "ᆵ": {
+        "ipa": "ɭph",
+        "symbol_number": 346
+    },
+    "ᆶ": {
+        "ipa": "ɭh",
+        "symbol_number": 347
+    },
+    "ᆷ": {
+        "ipa": "m",
+        "symbol_number": 306
+    },
+    "ᆸ": {
+        "ipa": "p",
+        "symbol_number": 307
+    },
+    "ᆹ": {
+        "ipa": "ps",
+        "symbol_number": 348
+    },
+    "ᆺ": {
+        "ipa": "t",
+        "symbol_number": 303
+    },
+    "ᆻ": {
+        "ipa": "t",
+        "symbol_number": 303
+    },
+    "ᆼ": {
+        "ipa": "ŋ",
+        "symbol_number": 311
+    },
+    "ᆽ": {
+        "ipa": "t",
+        "symbol_number": 303
+    },
+    "ᆾ": {
+        "ipa": "t",
+        "symbol_number": 303
+    },
+    "ᆿ": {
+        "ipa": "k",
+        "symbol_number": 300
+    },
+    "ᇀ": {
+        "ipa": "t",
+        "symbol_number": 303
+    },
+    "ᇁ": {
+        "ipa": "p",
+        "symbol_number": 307
+    },
+    "ᇂ": {
+        "ipa": "t",
+        "symbol_number": 303
+    }
+}

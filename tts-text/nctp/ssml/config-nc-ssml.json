@@ -1,0 +1,133 @@
+{
+    "speak": {
+        "xmlns:nc": [
+            "urn:dummy"
+        ],
+        "name": [],
+        "language": [
+            "KO", "ko", "kr", "KR", "korean", "Korean", "KOREAN", "한국어", "한국",
+
+            "EN", "en","english","English","ENGLISH","영어","미국",
+
+            "JA","JP","ja","jp","japanese","Japanese","JAPANESE","일본어","일본",
+
+            "TW","tw","taiwanese","Taiwanese","TAIWANESE","대만어","대만"
+        ],
+        "seed": [],
+        "n_samples": [],
+        "n_fm_steps": [],
+        "mel_w": [],
+        "pp_w": [],
+        "pp_sway_s": [],
+        "mel_sway_s": [],
+        "#prohibited": [
+            "speak"
+        ]
+    },
+    "break": {
+        "time": [
+            "#dur"
+        ],
+        "strength": [],
+        "#prohibited": [
+            "#all"
+        ],
+        "#default": {
+            "time": "150ms"
+        }
+    },
+    "say-as": {
+        "interpret-as": [
+            "characters",
+            "digits",
+            "telephone",
+            "score",
+            "date",
+            "time",
+            "number"
+        ],
+        "format": [
+            "#dmy",
+            "#hmsz",
+            "korean",
+            "chinese"
+        ],
+        "#prohibited": [
+            "#all"
+        ],
+        "#essential": [
+            "interpret-as"
+        ]
+    },
+    "sub": {
+        "alias": [],
+        "#prohibited": [
+            "#all"
+        ],
+        "#essential": [
+            "alias"
+        ]
+    },
+    "nc:voicecontrol": {
+        "speed": [
+            "#float"
+        ],
+        "energy": [
+            "#float"
+        ],
+        "pitch": [
+            "#float"
+        ],
+        "#prohibited": [
+            "speak",
+            "nc:postprocess",
+            "nc:voicecontrol",
+            "voice"
+        ],
+        "#essential": [
+            "speed",
+            "energy",
+            "pitch"
+        ]
+    },
+    "nc:texteffect": {
+        "type": [
+            "stutter",
+            "laugh",
+            "shout",
+            "scream",
+            "sigh",
+            "filler",
+            "cry",
+            "말더듬",
+            "웃음",
+            "기합",
+            "비명",
+            "한숨",
+            "간투어",
+            "울음"
+        ],
+        "#prohibited": [
+            "speak",
+            "voice",
+            "nc:voicecontrol",
+            "nc:texteffect",
+            "nc:postprocess"
+        ],
+        "#essential": [
+            "type"
+        ]
+    },
+    "root": {
+        "#prohibited": [
+            "break",
+            "say-as",
+            "sub",
+            "nc:voicecontrol",
+            "nc:texteffect"
+        ],
+        "#essential": [
+            "speak"
+        ]
+    }
+}
